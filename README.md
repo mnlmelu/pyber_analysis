@@ -48,7 +48,7 @@ When we look at this Dataframe we can get some insights that could be quite obvi
         <td>Pyber Fare Summary</td>
     </tr>
     <tr>
-        <td><img src="analysis/Pyber_fare_summary.png" width=850 height=250></td>
+        <td><img src="Resources/Pyber_summary.png" width=850 height=200></td>
     </tr>
 </table>
 
