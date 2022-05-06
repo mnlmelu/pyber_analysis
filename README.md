@@ -52,6 +52,8 @@ When we look at this Dataframe we can get some insights that could be quite obvi
     </tr>
 </table>
 
+![This is an image](https://raw.githubusercontent.com/mnlmelu/pyber_analysis/main/analysis/PyBer_fare_summary.png)
+
 As we can notice at the line chart, the shown results could be as expected, but here's some insights:
 - Taking into account that although the Rural city type has a higher price in terms of Fare per Ride, the amount of services in the Urban area higher. So in this case, the sum of the Total Fares for the whole trimester of the Urban area is almost 950% more than the Rural area.
 - As well the Suburban has the same tendency as above comparissons, where it reamins between the Rural and Urban city types.
