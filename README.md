@@ -45,10 +45,10 @@ When we look at this Dataframe we can get some insights that could be quite obvi
 
 <table>
     <tr>
-        <td>Pyber Fare Summary</td>
+        <td>Pyber Summary</td>
     </tr>
     <tr>
-        <td><img src="Resources/Pyber_fare_summary.png" width=850 height=200></td>
+        <td><img src="analysis/Pyber_fare_summary.png" width=650 height=150></td>
     </tr>
 </table>
 
